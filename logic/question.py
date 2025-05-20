@@ -22,4 +22,4 @@ class Question:
                 case 'D':
                     self.correct = 3
         except Exception as exception:
-            raise ValueError(f'Błędy format pliku: {path}')
+            raise ValueError(f'Błędny format pliku: {path}')
