@@ -1,0 +1,6 @@
+Ile razy Roch potrafi zrobić kosmiczną sztuczkę w czasie 1 min?
+A. jeden
+B. dwa
+C. pi
+D. nieskończenie wiele
+ANSWER: D
